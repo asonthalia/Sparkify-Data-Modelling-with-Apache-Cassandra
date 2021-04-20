@@ -8,8 +8,8 @@ It aims to demonstrate database creation from a JSON store by creating appropria
 > 🧘🏽 “Data that is loved tends to survive.” - _Kurt Bollacker_
 
 ## Core Technologies
-![Shield](https://img.shields.io/badge/Database-Apache Cassandra-lightgrey) 
-![Shield](https://img.shields.io/badge/Language-Python + CQL-lightgrey)
+![Shield](https://img.shields.io/badge/Database-ApacheCassandra-lightgrey) 
+![Shield](https://img.shields.io/badge/Language-Python|CQL-lightgrey)
 ![Shield](https://img.shields.io/badge/RawData-CSV-lightgrey)
 ## Usage
 
