@@ -3,7 +3,7 @@
 
 This project is part of the Udacity Nanodegree® on Data Engineering. 
 
-It aims to demonstrate database creation from a JSON store by creating appropriate database structures and populating correct data post ETL.
+It aims to demonstrate a distributed database creation from a CSV by creating appropriate database structures and populating correct data post query analysis in Apache Cassandra.
 
 > 🧘🏽 “Data that is loved tends to survive.” - _Kurt Bollacker_
 
